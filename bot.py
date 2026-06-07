@@ -42,11 +42,6 @@ async def start(message: Message):
         "⚽ <b>eFootball Match Bot</b>\n\n"
         "🔥 Добро пожаловать!\n"
         "🎮 Поиск соперников доступен ниже",
-        "🏆 Участвуй в турнирах \n"
-        "💰 Возможны призовые игры\n\n"
-        "📢 И Наш канал турниров: \n"
-        "@kpl_efootball_tournament\n\n"
-        " 👇 Нажми кнопку ниже и начинай игру! ",
         reply_markup=keyboard
     )
 
